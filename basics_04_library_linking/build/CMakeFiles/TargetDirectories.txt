@@ -1,0 +1,3 @@
+/Users/amjad/Documents/learning/tutorials_github/cmake/basics_04_library_linking/build/CMakeFiles/rebuild_cache.dir
+/Users/amjad/Documents/learning/tutorials_github/cmake/basics_04_library_linking/build/CMakeFiles/edit_cache.dir
+/Users/amjad/Documents/learning/tutorials_github/cmake/basics_04_library_linking/build/CMakeFiles/app.dir

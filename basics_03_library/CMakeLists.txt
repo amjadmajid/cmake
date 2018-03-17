@@ -10,10 +10,10 @@ set(CMAKE_BUILD_TYPE Release)
  file(GLOB SOURCES "src/*.c")
 
  # Generate a shared library
- # add_library(mathFuncs SHARED ${SOURCES})
+ #add_library(mathFuncs SHARED ${SOURCES})
 
  # Generate a static library
- add_library(mathFuncs STATIC ${SOURCES})
+  add_library(mathFuncs STATIC ${SOURCES})
 
  # set the library installation location, for example (/usr/lib)
  install (TARGETS mathFuncs DESTINATION /usr/local/lib)
