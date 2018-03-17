@@ -1,8 +1,8 @@
-The `include_directories()` function is used to bring the header files into the building environment. 
-The `set( VARIABLE ...)` function is used to set a variable. 
-The `file()` command is used to add the source files to the project. 
-The `GLOB` is used to expnad the wildcard `*` to match anything. 
-The ${VARIABLE}` is used to dereference the vaiable. 
+The `include_directories()` function is used to bring the header files into the building environment. <br>
+The `set( VARIABLE ...)` function is used to set a variable.<br> 
+The `file()` command is used to add the source files to the project. <br>
+The `GLOB` is used to expnad the wildcard `*` to match anything.<br> 
+The `${VARIABLE}` is used to dereference the vaiable.<br> 
 
 ### To build the project
 1. `mkdir build`
